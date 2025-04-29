@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "author": "Ton Nom",
+  "description": "Description de ton widget",
+  "name": "LocateByXYWidget",
+  "type": "widget",
+  "uri": "widgets/LocateByXYWidget/manifest.json"
+}
